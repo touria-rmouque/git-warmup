@@ -1,0 +1,2 @@
+Passionnée par les nouvelles technologies, j'ai consolidé mes bases techniques à travers divers projets de développement web.
+Actuellement, je me concentre sur la maîtrise de la gestion de version avec Git et l'exploration de frameworks comme Laravel pour concevoir des solutions web robustes.
