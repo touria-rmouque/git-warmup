@@ -1,4 +1,4 @@
-# I prefer JavaScript for the backend
+# I prefer Java for the backend
 ## My First Repository
 Touria Rmouque - IT Professional - Morocco
 ## Technical goals
