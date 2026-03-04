@@ -1,4 +1,4 @@
-# I prefer PHP for the backend
+# I prefer node.js for the backend
 ## My First Repository
 Touria Rmouque - IT Professional - Morocco
 ## Technical goals
